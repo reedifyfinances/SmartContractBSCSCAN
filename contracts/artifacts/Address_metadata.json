@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ReedifyFinance.sol": "Address"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ReedifyFinance.sol": {
+			"keccak256": "0x3676e3004185e3401adda38547a3b4b44d7a2a773ae53062103c95805c1781d3",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://cf9c96378c98f77234aa3a441f4634f49cb5ff99ce485c5414d28300b1e3fc7b",
+				"dweb:/ipfs/QmbiEWXS37Jp6tRgs4VJejDJ4vcmJhacBc7hJ7K1CxEAXQ"
+			]
+		}
+	},
+	"version": 1
+}
